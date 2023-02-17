@@ -1,1 +1,1 @@
-I'm learning to build a responsive website
+I'm learning front end development
